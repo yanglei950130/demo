@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class DemoController {
-    @RequestMapping("aaa")
+    @RequestMapping("aaa1111")
     public String getAAA(){
         System.out.println("6555555566");
         return "aaa";
