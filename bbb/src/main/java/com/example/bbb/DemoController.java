@@ -8,6 +8,6 @@ public class DemoController {
     @RequestMapping("aaa")
     public String getAAA(){
         System.out.println("6555555566");
-        return "aaabbb";
+        return "aaabbbccc";
     }
 }
